@@ -1,0 +1,27 @@
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo de Campo y Diploma.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Properties.Resources.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo de Campo y Diploma.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo de Campo y Diploma.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\bin\Debug\Trabajo de Campo y Diploma.exe.config
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\bin\Debug\Trabajo de Campo y Diploma.exe
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\bin\Debug\Trabajo de Campo y Diploma.pdb
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\bin\Debug\EntityFramework.dll
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\bin\Debug\EntityFramework.xml
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo .CEEB7546.Up2Date
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo de Campo y Diploma.exe
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo de Campo y Diploma.pdb
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo de Campo y Diploma.exe.config
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Clientes.Gestionar_clientes.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Clientes.modal_clientes.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Form1.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Login.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Menu.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.grupo.detalle_grupo.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.grupo.Gestionar_grupos.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.permisos.detalle_permisos.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.permisos.Gestionar_permisos.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.Usuarios.detalle_usuario.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.Usuarios.Gestionar_usuarios.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Presupuestos.Generar_presupuestos.resources

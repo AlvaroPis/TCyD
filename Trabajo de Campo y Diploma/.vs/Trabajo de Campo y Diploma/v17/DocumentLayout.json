@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\presupuestos\\generar_presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\presupuestos\\generar_presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\presupuestos\\generar_presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\presupuestos\\generar_presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\orden_de_fabricaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\orden_de_fabricaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\modulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\modulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|c:\\users\\alvar\\source\\repos\\trabajo de campo y diploma\\controladora\\seguridad\\sesionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad\\sesionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad composite\\permisocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad composite\\permisocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad composite\\permisogrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad composite\\permisogrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad composite\\permisosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad composite\\permisosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\grupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\grupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\formularios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\formularios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\menu\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\menu\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\clientes\\gestionar_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\clientes\\gestionar_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\clientes\\gestionar_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\clientes\\gestionar_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\seguridad\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\seguridad\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\clientes\\modal_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\clientes\\modal_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\comun\\metodoscomunes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:comun\\metodoscomunes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\linea_presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\linea_presupuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\controladora\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:controladora\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\presupuestos\\generar_presupuestos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\presupuestos\\generar_presupuestos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\linea_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\linea_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\seguridad\\permisos\\gestionar_permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\seguridad\\permisos\\gestionar_permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\seguridad\\permisos\\gestionar_permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\seguridad\\permisos\\gestionar_permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\insumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\insumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\linea_orden_de_fabricaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\linea_orden_de_fabricaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\modelo\\linea_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:modelo\\linea_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\clientes\\gestionar_clientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\clientes\\gestionar_clientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\vista\\clientes\\gestionar_clientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40CAD09-7A4D-4314-BFF1-01B7FF5EF40C}|Trabajo de Campo y Diploma.csproj|solutionrelative:vista\\clientes\\gestionar_clientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orden_de_Fabricaciones.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Orden_de_Fabricaciones.cs",
+              "RelativeDocumentMoniker": "Modelo\\Orden_de_Fabricaciones.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Orden_de_Fabricaciones.cs",
+              "RelativeToolTip": "Modelo\\Orden_de_Fabricaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:16:02.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Pedidos.cs",
+              "RelativeToolTip": "Modelo\\Pedidos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:13:13.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Permisos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Permisos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Permisos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Permisos.cs",
+              "RelativeToolTip": "Modelo\\Permisos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:18:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Presupuestos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Presupuestos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Presupuestos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Presupuestos.cs",
+              "RelativeToolTip": "Modelo\\Presupuestos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:15:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generar_presupuestos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Presupuestos\\Generar_presupuestos.cs",
+              "RelativeDocumentMoniker": "Vista\\Presupuestos\\Generar_presupuestos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Presupuestos\\Generar_presupuestos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Presupuestos\\Generar_presupuestos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:20:04.561Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generar_presupuestos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Presupuestos\\Generar_presupuestos.cs",
+              "RelativeDocumentMoniker": "Vista\\Presupuestos\\Generar_presupuestos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Presupuestos\\Generar_presupuestos.cs",
+              "RelativeToolTip": "Vista\\Presupuestos\\Generar_presupuestos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:28:36.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modulos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Modulos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Modulos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Modulos.cs",
+              "RelativeToolTip": "Modelo\\Modulos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:30:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:38:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Usuario.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Usuario.cs",
+              "RelativeToolTip": "Controladora\\Seguridad\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:24:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SesionManager.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\SesionManager.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad\\SesionManager.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\SesionManager.cs",
+              "RelativeToolTip": "Controladora\\Seguridad\\SesionManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:22:31.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Permiso.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad\\Permiso.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Permiso.cs",
+              "RelativeToolTip": "Controladora\\Seguridad\\Permiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:21:57.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Grupo.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad\\Grupo.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Grupo.cs",
+              "RelativeToolTip": "Controladora\\Seguridad\\Grupo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:21:28.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Modulo.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Modulo.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad\\Modulo.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Modulo.cs",
+              "RelativeToolTip": "Controladora\\Seguridad\\Modulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:21:44.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PermisoComponent.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad composite\\PermisoComponent.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad composite\\PermisoComponent.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad composite\\PermisoComponent.cs",
+              "RelativeToolTip": "Controladora\\Seguridad composite\\PermisoComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:42:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PermisoGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad composite\\PermisoGrupo.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad composite\\PermisoGrupo.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad composite\\PermisoGrupo.cs",
+              "RelativeToolTip": "Controladora\\Seguridad composite\\PermisoGrupo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswO0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:43:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PermisoSimple.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad composite\\PermisoSimple.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad composite\\PermisoSimple.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad composite\\PermisoSimple.cs",
+              "RelativeToolTip": "Controladora\\Seguridad composite\\PermisoSimple.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:43:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Clientes.cs",
+              "RelativeDocumentMoniker": "Modelo\\Clientes.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Clientes.cs",
+              "RelativeToolTip": "Modelo\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:18:42.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Contexto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Contexto.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Contexto.cs",
+              "RelativeToolTip": "Modelo\\Contexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:01:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Grupos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Grupos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Grupos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Grupos.cs",
+              "RelativeToolTip": "Modelo\\Grupos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:01:19.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Formularios.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Formularios.cs",
+              "RelativeDocumentMoniker": "Modelo\\Formularios.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Formularios.cs",
+              "RelativeToolTip": "Modelo\\Formularios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:26:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Form1.cs",
+              "RelativeToolTip": "Vista\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:06:57.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:06:54.884Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Modelo\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Usuarios.cs",
+              "RelativeToolTip": "Modelo\\Usuarios.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:49:59.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-03T01:49:44.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Menu\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\Menu\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Menu\\Menu.Designer.cs",
+              "RelativeToolTip": "Vista\\Menu\\Menu.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwIEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:48:43.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Gestionar_clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.cs",
+              "RelativeDocumentMoniker": "Vista\\Clientes\\Gestionar_clientes.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Clientes\\Gestionar_clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:48:11.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Vista\\Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Menu\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Menu\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:30:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Vista\\Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Menu\\Menu.cs",
+              "RelativeToolTip": "Vista\\Menu\\Menu.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:30:37.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Gestionar_clientes.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.cs",
+              "RelativeDocumentMoniker": "Vista\\Clientes\\Gestionar_clientes.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.cs",
+              "RelativeToolTip": "Vista\\Clientes\\Gestionar_clientes.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:48:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Formulario.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Formulario.cs",
+              "RelativeDocumentMoniker": "Controladora\\Seguridad\\Formulario.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Seguridad\\Formulario.cs",
+              "RelativeToolTip": "Controladora\\Seguridad\\Formulario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:21:12.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "modal_clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\modal_clientes.cs",
+              "RelativeDocumentMoniker": "Vista\\Clientes\\modal_clientes.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\modal_clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Clientes\\modal_clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:19:56.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Login.cs",
+              "RelativeDocumentMoniker": "Vista\\Login.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:08:12.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Cliente.cs",
+              "RelativeDocumentMoniker": "Controladora\\Cliente.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Cliente.cs",
+              "RelativeToolTip": "Controladora\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:07:52.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MetodosComunes.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Comun\\MetodosComunes.cs",
+              "RelativeDocumentMoniker": "Comun\\MetodosComunes.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Comun\\MetodosComunes.cs",
+              "RelativeToolTip": "Comun\\MetodosComunes.cs",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:40:08.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Linea_Presupuestos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Presupuestos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Linea_Presupuestos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Presupuestos.cs",
+              "RelativeToolTip": "Modelo\\Linea_Presupuestos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:15:12.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Productos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Productos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Productos.cs",
+              "RelativeToolTip": "Modelo\\Productos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:14:02.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "Controladora\\Presupuesto.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Controladora\\Presupuesto.cs",
+              "RelativeToolTip": "Controladora\\Presupuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:51:09.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Generar_presupuestos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Presupuestos\\Generar_presupuestos.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\Presupuestos\\Generar_presupuestos.Designer.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Presupuestos\\Generar_presupuestos.Designer.cs",
+              "RelativeToolTip": "Vista\\Presupuestos\\Generar_presupuestos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:48:45.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Linea_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Productos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Linea_Productos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Productos.cs",
+              "RelativeToolTip": "Modelo\\Linea_Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:14:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Gestionar_permisos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Seguridad\\permisos\\Gestionar_permisos.cs",
+              "RelativeDocumentMoniker": "Vista\\Seguridad\\permisos\\Gestionar_permisos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Seguridad\\permisos\\Gestionar_permisos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Seguridad\\permisos\\Gestionar_permisos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:03:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Gestionar_permisos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Seguridad\\permisos\\Gestionar_permisos.cs",
+              "RelativeDocumentMoniker": "Vista\\Seguridad\\permisos\\Gestionar_permisos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Seguridad\\permisos\\Gestionar_permisos.cs",
+              "RelativeToolTip": "Vista\\Seguridad\\permisos\\Gestionar_permisos.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:03:41.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Insumos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Insumos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Insumos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Insumos.cs",
+              "RelativeToolTip": "Modelo\\Insumos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:14:57.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Linea_Orden_de_Fabricaciones.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Orden_de_Fabricaciones.cs",
+              "RelativeDocumentMoniker": "Modelo\\Linea_Orden_de_Fabricaciones.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Orden_de_Fabricaciones.cs",
+              "RelativeToolTip": "Modelo\\Linea_Orden_de_Fabricaciones.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:16:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Linea_Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Pedidos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Linea_Pedidos.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Modelo\\Linea_Pedidos.cs",
+              "RelativeToolTip": "Modelo\\Linea_Pedidos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:13:44.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Gestionar_clientes.resx",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.resx",
+              "RelativeDocumentMoniker": "Vista\\Clientes\\Gestionar_clientes.resx",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.resx",
+              "RelativeToolTip": "Vista\\Clientes\\Gestionar_clientes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-03T06:52:57.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Gestionar_clientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\Clientes\\Gestionar_clientes.Designer.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Vista\\Clientes\\Gestionar_clientes.Designer.cs",
+              "RelativeToolTip": "Vista\\Clientes\\Gestionar_clientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:52:51.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\Trabajo de Campo y Diploma\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:01:02.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
