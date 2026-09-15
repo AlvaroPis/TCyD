@@ -278,7 +278,10 @@ namespace Trabajo_de_Campo_y_Diploma.Controladora.Seguridad_composite
                 {
                     Console.WriteLine($"\n3. FORMULARIO 'Generar presupuesto': NO ENCONTRADO");
                     Console.WriteLine($"   Buscando similares...");
-                    var similares = formulariosBD.Where(f => f.nombre.Contains("presupuesto", StringComparison.OrdinalIgnoreCase)).ToList();
+                    var similares = formulariosBD
+                        .Where(f => f.nombre != null &&
+                                    f.nombre.ToLower().Contains("presupuesto"))
+                        .ToList();
                     if (similares.Count > 0)
                     {
                         foreach (var s in similares)

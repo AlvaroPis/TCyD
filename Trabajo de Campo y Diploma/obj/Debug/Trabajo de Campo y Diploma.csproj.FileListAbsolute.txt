@@ -25,3 +25,4 @@ C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Camp
 C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.Usuarios.detalle_usuario.resources
 C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Seguridad.Usuarios.Gestionar_usuarios.resources
 C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Vista.Presupuestos.Generar_presupuestos.resources
+C:\Users\alvar\source\repos\Trabajo de Campo y Diploma\obj\Debug\Trabajo_de_Campo_y_Diploma.Migrations.InitialCreate.resources

@@ -70,6 +70,10 @@
     <Compile Include="Controladora\Seguridad\Permiso.cs" />
     <Compile Include="Controladora\Seguridad\SesionManager.cs" />
     <Compile Include="Controladora\Seguridad\Usuario.cs" />
+    <Compile Include="Migrations\202512160306066_InitialCreate.cs" />
+    <Compile Include="Migrations\202512160306066_InitialCreate.Designer.cs">
+      <DependentUpon>202512160306066_InitialCreate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Modelo\Clientes.cs" />
     <Compile Include="Modelo\Contexto.cs" />
@@ -161,6 +165,9 @@
     <Compile Include="Vista\Seguridad\Usuarios\Gestionar_usuarios.Designer.cs">
       <DependentUpon>Gestionar_usuarios.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Migrations\202512160306066_InitialCreate.resx">
+      <DependentUpon>202512160306066_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
