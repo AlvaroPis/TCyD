@@ -56,7 +56,7 @@ namespace Trabajo_de_Campo_y_Diploma.Vista
             formularioGrupos.Visible = formularios.Any(f => f.nombre == "Grupos");
             formularioPermiso.Visible = formularios.Any(f => f.nombre == "Permisos");
             //Ventas
-            formularioGenerarPresupuesto.Visible = formularios.Any(f => f.nombre == "Gestionar Presupuesto");
+            formularioGenerarPresupuesto.Visible = formularios.Any(f => f.nombre == "Generar presupuesto");
             formularioGestionarClientes.Visible = formularios.Any(f => f.nombre == "Gestionar clientes");
         }
 

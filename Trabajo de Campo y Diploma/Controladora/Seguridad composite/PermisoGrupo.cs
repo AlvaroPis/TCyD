@@ -48,7 +48,7 @@ namespace Trabajo_de_Campo_y_Diploma.Controladora.Seguridad_composite
                 context.Database.Connection.Open();
 
                 var permisosUsuario = context.Permisos
-                    .Where(p => p.estado == true)
+                    .Where(p => p.estado != false) // habilitado = true o sin definir, igual que en la grilla de admin
                     .Where(p => p.Usuarios.Any(u => u.id_usuario == idUsuario))
                     .ToList();
 
@@ -84,7 +84,7 @@ namespace Trabajo_de_Campo_y_Diploma.Controladora.Seguridad_composite
                 foreach (var grupo in gruposUsuario)
                 {
                     var permisosDelGrupo = context.Permisos
-                        .Where(p => p.estado == true)
+                        .Where(p => p.estado != false) // habilitado = true o sin definir, igual que en la grilla de admin
                         .Where(p => p.Grupos.Any(g => g.id_grupo == grupo.id_grupo))
                         .ToList();
 
@@ -162,7 +162,7 @@ namespace Trabajo_de_Campo_y_Diploma.Controladora.Seguridad_composite
                 var permisos = GetPermisosLogin(idUsuario);
 
                 var formulariosUsuario = permisos
-                    .Where(p => p.Formularios != null && p.estado == true)
+                    .Where(p => p.Formularios != null && p.estado != false)
                     .Select(p => p.Formularios)
                     .Distinct()
                     .ToList();
@@ -171,29 +171,14 @@ namespace Trabajo_de_Campo_y_Diploma.Controladora.Seguridad_composite
 
                 Console.WriteLine($"Formularios del usuario: {formulariosUsuario.Count}");
 
-                if (formulariosUsuario.Count == 0)
-                {
-                    Console.WriteLine("⚠ Usuario sin formularios. Devolviendo básicos...");
-
-                    formulariosUsuario = todosFormularios
-                        .Where(f => f.nombre == "Usuarios" ||
-                                   f.nombre == "Gestionar clientes" ||
-                                   f.nombre == "Generar presupuesto")
-                        .ToList();
-                }
-
                 return formulariosUsuario;
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"ERROR GetFormulariosUsuario: {ex.Message}");
 
-                return new List<Formularios>
-                {
-                    new Formularios { id_formulario = 1, nombre = "Usuarios" },
-                    new Formularios { id_formulario = 4, nombre = "Gestionar clientes" },
-                    new Formularios { id_formulario = 13, nombre = "Generar presupuesto" }
-                };
+                // ponytail: fail-closed, sin permisos válidos no se otorga acceso por defecto
+                return new List<Formularios>();
             }
         }
 
@@ -213,25 +198,13 @@ namespace Trabajo_de_Campo_y_Diploma.Controladora.Seguridad_composite
 
                 Console.WriteLine($"Módulos encontrados: {modulos.Count}");
 
-                if (modulos.Count == 0)
-                {
-                    modulos = new List<Modulos>
-                    {
-                        new Modulos { id_modulo = 1, nombre = "Seguridad" },
-                        new Modulos { id_modulo = 2, nombre = "Ventas" }
-                    };
-                }
-
                 return modulos;
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"ERROR GetModulosUsuario: {ex.Message}");
-                return new List<Modulos>
-                {
-                    new Modulos { id_modulo = 1, nombre = "Seguridad" },
-                    new Modulos { id_modulo = 2, nombre = "Ventas" }
-                };
+                // ponytail: fail-closed, sin permisos válidos no se otorga acceso por defecto
+                return new List<Modulos>();
             }
         }
         public void DebugBaseDeDatos(int idUsuario)
